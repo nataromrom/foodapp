@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/foodapp/static/css/main.d612deb2.css",
+    "main.js": "/foodapp/static/js/main.fa1f170e.js",
+    "static/js/787.8741f9c1.chunk.js": "/foodapp/static/js/787.8741f9c1.chunk.js",
+    "static/media/pizza.jpg": "/foodapp/static/media/pizza.6c17b7b5d67e61fe1e96.jpg",
+    "static/media/logo.svg": "/foodapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/foodapp/index.html",
+    "main.d612deb2.css.map": "/foodapp/static/css/main.d612deb2.css.map",
+    "main.fa1f170e.js.map": "/foodapp/static/js/main.fa1f170e.js.map",
+    "787.8741f9c1.chunk.js.map": "/foodapp/static/js/787.8741f9c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d612deb2.css",
+    "static/js/main.fa1f170e.js"
+  ]
+}
